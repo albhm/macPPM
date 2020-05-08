@@ -7,7 +7,7 @@
    I get a free life-time license key ;-)
 
 # Installation
-1. Download and install foohid.kext from http://github.com/unbit/foohid/releases
+1. Build and install foohid.kext from http://github.com/unbit/foohid
 2. Download macPPM source or the release. It includes a binary of libportaudio, which the makefile expects in the src directory. If you prefer to build this library on your own feel free to do so.
 3. Make [or buy] a nice cable connecting your Transmitter to your soundcard input
 4. Ensure that the audio input device is correctly set in the system preferences 	       
